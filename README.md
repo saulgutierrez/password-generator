@@ -8,3 +8,5 @@ Technologies used:
 <li>Vanilla JS</li>
 <li>FontAwesome</li>
 <li>Google Fonts</li>
+
+![image](https://github.com/saulgutierrez/password-generator/assets/62368834/dc0afeb3-44f6-47cb-89e0-8acf6a066f7c)
